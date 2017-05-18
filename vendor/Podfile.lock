@@ -1,0 +1,16 @@
+PODS:
+  - NavigationDecorator (0.1.0)
+
+DEPENDENCIES:
+  - NavigationDecorator (from `/Users/user/Desktop/NavigationDecoratorExample/vendor/NavigationDecorator/NavigationDecorator.podspec`)
+
+EXTERNAL SOURCES:
+  NavigationDecorator:
+    :path: "/Users/user/Desktop/NavigationDecoratorExample/vendor/NavigationDecorator/NavigationDecorator.podspec"
+
+SPEC CHECKSUMS:
+  NavigationDecorator: 7bc90567312956eac73f5ff7c01f69b840ebc51e
+
+PODFILE CHECKSUM: d2bbf1ae4f3ea1585d56f8631adc5542260f7eab
+
+COCOAPODS: 1.2.1

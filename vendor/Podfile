@@ -1,0 +1,14 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '9.0'
+
+project '../NavigationDecoratorExample'
+workspace '../NavigationDecoratorExample.xcworkspace'
+
+inhibit_all_warnings!
+use_frameworks!
+
+target :NavigationDecoratorExample do
+    pod 'NavigationDecorator', :path => '/Users/user/Desktop/NavigationDecoratorExample/vendor/NavigationDecorator/NavigationDecorator.podspec'
+end
+
